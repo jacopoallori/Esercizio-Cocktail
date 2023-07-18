@@ -1,7 +1,6 @@
-
 <h1 align="center">Progett Esercizio cocktails</h1>
 <p>Fetch per recupero dati cockatils e tramite campo input filtro elementi da visualizzare sulla schermata. Utlizzo di CSS e Js ( Organizzato in piu script)</p>
-<img src="https://github.com/jacopoallori/Memory-Game/blob/master/MemoryGame.png" alt="Img HomePage Cocktails">
+<img src="https://github.com/jacopoallori/Esercizio-Cocktail/blob/master/CocktailsAPIImg.png" alt="Img HomePage Cocktails">
 <div align="center">
 <h3>Languages and Tools:</h3>
 <p>
